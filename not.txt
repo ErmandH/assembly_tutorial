@@ -1,0 +1,4 @@
+Derlemek icin
+arm-linux-gnueabihf-as -o hello.o hello.s
+arm-linux-gnueabihf-ld -o hello hello.o
+qemu-arm hello
