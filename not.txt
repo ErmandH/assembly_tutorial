@@ -1,4 +1,11 @@
-Derlemek icin
+- Derlemek icin
+sudo apt-get update
+sudo apt install build-essential gcc-arm-linux-gnueabihf
+sudo apt install qemu-user
 arm-linux-gnueabihf-as -o hello.o hello.s
 arm-linux-gnueabihf-ld -o hello hello.o
 qemu-arm hello
+
+
+Script ile calistirmak icin
+./run.sh UZANTISIZ_DOSYA
