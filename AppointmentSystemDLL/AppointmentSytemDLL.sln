@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentSystemDLL", "AppointmentSystemDLL\AppointmentSystemDLL.csproj", "{994E9149-7926-42E0-A4FC-E257FF8511D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentLib", "AppointmentLib\AppointmentLib.csproj", "{4BB8A3B9-7EA7-480F-BF51-885DE42C0676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994E9149-7926-42E0-A4FC-E257FF8511D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994E9149-7926-42E0-A4FC-E257FF8511D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994E9149-7926-42E0-A4FC-E257FF8511D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994E9149-7926-42E0-A4FC-E257FF8511D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB8A3B9-7EA7-480F-BF51-885DE42C0676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB8A3B9-7EA7-480F-BF51-885DE42C0676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB8A3B9-7EA7-480F-BF51-885DE42C0676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB8A3B9-7EA7-480F-BF51-885DE42C0676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
